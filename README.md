@@ -42,17 +42,16 @@ After **7 years in teaching**, I’m now **focused full-time on Data Science**, 
 
 ## 📁 Portfolio Projects
 - 🔗 Customer Churn Prediction (EDA + ML Models)
-- 🔗 Medical Insurance Cost Prediction
-- 🔗 YouTube Channel Performance Dashboard
+- 🔗 Medical Insurance Cost Prediction:https://github.com/KalyaniKumar-amar/Medical-Insurance-Cost-Prediction
+- 🔗 YouTube Channel Performance Dashboard:https://github.com/KalyaniKumar-amar/sequences-and-file-operations
 - 🔗 Movie Recommendation System – MyNextMovie
 - 🔗 TCS Stock Forecasting with ARIMA, LSTM
 - 🔗 Microsoft Certifications Data Model (SQL + PPT)
 - 🔗 Sentiment Analysis with NLP (Internship Project)
-
+- Iris Classification:https://github.com/KalyaniKumar-amar/Medical-Insurance-Cost-Prediction/blob/main/Iris%20Classification%20Project.ipynb
 
 ---
 
 ## 📫 Let's Connect!
 ✉️ Email: [kalyanikumar242@gmail.com]  
 💼 LinkedIn: [linkedin.com/in/kalyani-kumar-15a85a270]  
-📂 Portfolio: [your-portfolio-link-if-any]
